@@ -1,4 +1,4 @@
-package com.klid;
+package com.klid.qrcodetypedetector;
 
 public class App {
     public static void main(String[] args) {

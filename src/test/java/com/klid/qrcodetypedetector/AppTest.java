@@ -1,4 +1,4 @@
-package com.klid;
+package com.klid.qrcodetypedetector;
 
 import static org.junit.Assert.assertTrue;
 
